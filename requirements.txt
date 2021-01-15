@@ -27,6 +27,7 @@ Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.1
 future==0.18.2
 grpcio==1.30.0
+gunicorn=20.0.4
 h5py==2.10.0
 idna==2.10
 imbalanced-learn==0.7.0
